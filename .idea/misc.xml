@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/JayCode/app/src/main/res/drawable/btn_back.xml" value="0.1" />
+        <entry key="..\:/JayCode/app/src/main/res/drawable/gradient_backgrnd.xml" value="0.1" />
+        <entry key="..\:/JayCode/app/src/main/res/layout/activity_sign_in.xml" value="0.18" />
+        <entry key="..\:/JayCode/app/src/main/res/layout/activity_sign_up.xml" value="0.17255434782608695" />
+        <entry key="..\:/JayCode/app/src/main/res/layout/activity_splash_screen.xml" value="0.17255434782608695" />
         <entry key="..\:/JayCode/app/src/main/res/layout/content_main.xml" value="0.17255434782608695" />
       </map>
     </option>
